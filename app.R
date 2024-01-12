@@ -22,7 +22,7 @@ p_results <- p(
   "Threat status is determined by",
   tags$a("CNC Flora", href = "http://cncflora.jbrj.gov.br"),
   "(in column threat status cnc)  and Portaria MMA n 443 (in column threat status mma).",
-  tags$strong("Dataset last updated on 21th Jul 2022"), tags$br(),tags$br()
+  tags$strong("Dataset last updated on 11th Jan 2024"), tags$br(),tags$br()
 )
 
 p_taxa_tpl <- p(
